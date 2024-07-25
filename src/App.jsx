@@ -1,12 +1,12 @@
 import React from "react"
-import Timer from "./Components/Timer"
+import RatingButton from "./Components/FramerButton/RatingButton"
 
 
 function App() {
 
   return (
     <>
-        
+        <RatingButton />
     </>
   )
 }
